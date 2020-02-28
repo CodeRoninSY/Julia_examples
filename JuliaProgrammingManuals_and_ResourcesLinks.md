@@ -1,19 +1,21 @@
 # Julia language educational resources & manuals
-##<2020-01-18> CodeRoninSY
+## <2020-01-18> CodeRoninSY
 
 
 # How to start Julia notebook via Jupyter from command line:
-$> jupyter notebook --no-browser
+<p>`$> jupyter notebook --no-browser`</p>
 
 # How to add packages
-$> julia
-julia> ]
-pkg> add Plots
-
+<p>
+`$> julia`<br>
+`julia> ]`<br>
+`pkg> add Plots`<br>
+</p>
 -- or --
-
-] develop "https://github.com/dmlc/XGBoost.jl.git"
-] build XGBoost
+<p>
+`] develop "https://github.com/dmlc/XGBoost.jl.git"`<br>
+`] build XGBoost`<br>
+</p>
 
 ----------------------------------------------------------------------
 
