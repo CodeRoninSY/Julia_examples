@@ -20,164 +20,164 @@
 ----------------------------------------------------------------------
 
 * Julia language learning:<br>
-https://julialang.org/learning/
+https://julialang.org/learning/<br>
 
 * Julia Observer:<br>
-https://juliaobserver.com/
+https://juliaobserver.com/<br>
 
 * The Fast Track to Julia 1.0:<br>
-https://juliadocs.github.io/Julia-Cheat-Sheet/
+https://juliadocs.github.io/Julia-Cheat-Sheet/<br>
 
 * Curated list of Julia:<br>
-https://github.com/svaksha/Julia.jl#index
+https://github.com/svaksha/Julia.jl#index<br>
 
 * Introduction to Applied Linear Algebra:<br>
-https://web.stanford.edu/~boyd/vmls/
-https://github.com/vbartle/VMLS-Companions
+https://web.stanford.edu/~boyd/vmls/<br>
+https://github.com/vbartle/VMLS-Companions<br>
 
 * Statistics with Julia:<br>
-https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf
-https://github.com/h-Klok/StatsWithJuliaBook
+https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf<br>
+https://github.com/h-Klok/StatsWithJuliaBook<br>
 R Datasets:<br> 
-https://vincentarelbundock.github.io/Rdatasets/datasets.html
+https://vincentarelbundock.github.io/Rdatasets/datasets.html<br>
 
 * hydro: simple, relatively small & mildly interesting hydrodynamic code:<br>
-https://github.com/natj/hydro
+https://github.com/natj/hydro<br>
 
 * MLJ.jl : Alan Turing Institute Machine Learning Framework:<br>
-https://github.com/alan-turing-institute/MLJ.jl
-https://alan-turing-institute.github.io/MLJTutorials/
+https://github.com/alan-turing-institute/MLJ.jl<br>
+https://alan-turing-institute.github.io/MLJTutorials/<br>
 
 * ScikitLearn.jl:<br> 
-https://github.com/cstjean/ScikitLearn.jl
-https://github.com/cstjean/ScikitLearn.jl/blob/master/docs/examples.md
-https://scikitlearnjl.readthedocs.io/en/latest/
+https://github.com/cstjean/ScikitLearn.jl<br>
+https://github.com/cstjean/ScikitLearn.jl/blob/master/docs/examples.md<br>
+https://scikitlearnjl.readthedocs.io/en/latest/<br>
 
 * XGBoost.jl:<br> 
-https://github.com/dmlc/XGBoost.jl
+https://github.com/dmlc/XGBoost.jl<br>
 
 * Juliabox tutorials:<br>
-https://github.com/JuliaComputing/JuliaBoxTutorials
+https://github.com/JuliaComputing/JuliaBoxTutorials<br>
 
 * Julia Quantitative Economics:<br>
-https://julia.quantecon.org/
+https://julia.quantecon.org/<br>
 
 * A Deep Introduction to Julia for Data Science and Scientific Computing:<br>
-https://ucidatascienceinitiative.github.io/IntroToJulia/
+https://ucidatascienceinitiative.github.io/IntroToJulia/<br>
 
 * Differential Equations methods documentation:<br>
-https://github.com/JuliaDiffEq/DiffEqDocs.jl/blob/master/docs/src/solvers/ode_solve.md
+https://github.com/JuliaDiffEq/DiffEqDocs.jl/blob/master/docs/src/solvers/ode_solve.md<br>
 
 * Sundials:<br>
-https://github.com/JuliaDiffEq/Sundials.jl
+https://github.com/JuliaDiffEq/Sundials.jl<br>
 
 * JuliaDiffEq main github repo:<br>
-https://github.com/JuliaDiffEq
+https://github.com/JuliaDiffEq<br>
 
 * DiffEqTutorials.jl:<br>
-https://github.com/JuliaDiffEq/DiffEqTutorials.jl
+https://github.com/JuliaDiffEq/DiffEqTutorials.jl<br>
 
 * DifferentialEquations.jl documentation:<br>
-https://docs.juliadiffeq.org/stable/
+https://docs.juliadiffeq.org/stable/<br>
 
 * DifferentialEquations.jl Documentation:<br>
-https://docs.juliadiffeq.org/v5.3/index.html
-https://docs.juliadiffeq.org/stable/#DifferentialEquations.jl-Documentation-1
+https://docs.juliadiffeq.org/v5.3/index.html<br>
+https://docs.juliadiffeq.org/stable/#DifferentialEquations.jl-Documentation-1<br>
 
 * DiffEqDevTools Developer documentation:<br>
-https://devdocs.juliadiffeq.org/dev/
+https://devdocs.juliadiffeq.org/dev/<br>
 
 * Stochastic Differential Equations:<br>
-https://docs.juliadiffeq.org/v5.3/tutorials/sde_example.html#Example-1:-Scalar-SDEs-1
-https://docs.juliadiffeq.org/stable/tutorials/sde_example/#Stochastic-Differential-Equations-1
-https://www.stochasticlifestyle.com/category/math/differential-equations/
+https://docs.juliadiffeq.org/v5.3/tutorials/sde_example.html#Example-1:-Scalar-SDEs-1<br>
+https://docs.juliadiffeq.org/stable/tutorials/sde_example/#Stochastic-Differential-Equations-1<br>
+https://www.stochasticlifestyle.com/category/math/differential-equations/<br>
 
 * Intro to Julia for data science:<br>
-https://www.youtube.com/watch?v=SLE0vz85Rqo&t=1167s
+https://www.youtube.com/watch?v=SLE0vz85Rqo&t=1167s<br>
 
 * Parameter estimation and Bayesian analysis:<br> 
-https://docs.juliadiffeq.org/dev/analysis/parameter_estimation/#parameter_estimation-1
+https://docs.juliadiffeq.org/dev/analysis/parameter_estimation/#parameter_estimation-1<br>
 
 * Przemyslaw Szufel (Econometrics, Optimization) github:<br>
-https://github.com/pszufe
+https://github.com/pszufe<br>
 
 * Bogumil Kaminski (Econometrics, Distributed computing) github:<br>
-https://github.com/bkamins?tab=repositories
+https://github.com/bkamins?tab=repositories<br>
 
 * Jalem Raj Rhit (Econometrics, Machine learning) github: <br>
-https://github.com/Dawny33
+https://github.com/Dawny33<br>
 
 * Julia 1.0 Programming Cookbook: <br>
-https://github.com/PacktPublishing/Julia-1.0-Programming-Cookbook
+https://github.com/PacktPublishing/Julia-1.0-Programming-Cookbook<br>
 
 * Packtpub github repo for selected books:<br>
-https://github.com/PacktPublishing/
+https://github.com/PacktPublishing/<br>
 
 * Plot backends: <br>
-https://ucidatascienceinitiative.github.io/IntroToJulia/Html/PlotsJL#Using-Backends
+https://ucidatascienceinitiative.github.io/IntroToJulia/Html/PlotsJL#Using-Backends<br>
 
 * Tom Breloff's ML notes: <br>
-http://www.breloff.com/JuliaML-and-Plots/
-https://www.youtube.com/watch?v=LGB8GvAL4HA
+http://www.breloff.com/JuliaML-and-Plots/<br>
+https://www.youtube.com/watch?v=LGB8GvAL4HA<br>
 
 * GrapRecipes.jl : updated version of PlotRecipes.jl:<br>
-https://github.com/JuliaPlots/GraphRecipes.jl
+https://github.com/JuliaPlots/GraphRecipes.jl<br>
 
 * Tom Breloff's github repo: <br>
-https://github.com/tbreloff
+https://github.com/tbreloff<br>
 
 * Global Sensitivity Analysis: <br>
-https://docs.juliadiffeq.org/latest/analysis/global_sensitivity/
+https://docs.juliadiffeq.org/latest/analysis/global_sensitivity/<br>
 
 * Finding maxima and minima of DiffEq Solutions:<br>
-https://tutorials.juliadiffeq.org/html/ode_extras/03-ode_minmax.html
+https://tutorials.juliadiffeq.org/html/ode_extras/03-ode_minmax.html<br>
 
 * Basic parameter estimation, reverse-mode automatic differentiation and inverse problems: <br>
-https://mitmath.github.io/18337/lecture10/estimation_identification
+https://mitmath.github.io/18337/lecture10/estimation_identification<br>
 
 * JumMP.jl:<br>
-https://github.com/JuliaOpt/JuMP.jl
-http://www.juliaopt.org/JuMP.jl/v0.20.0/
-https://arxiv.org/abs/1312.1431
+https://github.com/JuliaOpt/JuMP.jl<br>
+http://www.juliaopt.org/JuMP.jl/v0.20.0/<br>
+https://arxiv.org/abs/1312.1431<br>
 
 * Double Pendulum; mathematical equations:<br>
-https://www.math24.net/double-pendulum/
+https://www.math24.net/double-pendulum/<br>
 
 * An Implicit/Explicit CUDA-Accelerated Solver for the 2D Beeler-Reuter Model:<br>
-https://tutorials.juliadiffeq.org/html/advanced/01-beeler_reuter.html
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1283659/?page=14
+https://tutorials.juliadiffeq.org/html/advanced/01-beeler_reuter.html<br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1283659/?page=14<br>
 
 * AlgebraicMultigrid:<br>
-https://github.com/JuliaLinearAlgebra/AlgebraicMultigrid.jl
+https://github.com/JuliaLinearAlgebra/AlgebraicMultigrid.jl<br>
 
 * diffeqpy : Define and use python for DifferentialEquations.jl solution:<br>
-https://pypi.org/project/diffeqpy/
+https://pypi.org/project/diffeqpy/<br>
 
 * BLAS functions: <br>
-https://github.com/lopezm94/SugarBLAS.jl
+https://github.com/lopezm94/SugarBLAS.jl<br>
 
 * A library of premade problems for examples and testing:<br>
-https://github.com/JuliaDiffEq/DiffEqProblemLibrary.jl
+https://github.com/JuliaDiffEq/DiffEqProblemLibrary.jl<br>
 Chris Rackauckas youtube video:<br> 
-https://www.youtube.com/watch?v=75SCMIRlNXM
+https://www.youtube.com/watch?v=75SCMIRlNXM<br>
 
 * Workshop: Solving optimization problems with JuliaOpt:<br>
-https://www.youtube.com/watch?v=nnL7yLMVu6c
-https://github.com/mlubin
-https://github.com/madeleineudell
-https://github.com/madeleineudell/Convex.jl
+https://www.youtube.com/watch?v=nnL7yLMVu6c<br>
+https://github.com/mlubin<br>
+https://github.com/madeleineudell<br>
+https://github.com/madeleineudell/Convex.jl<br>
 
 * JuliaOpt Optimization related projects in Julia:<br>
-https://www.youtube.com/watch?v=7LNeR299q88
-https://github.com/IainNZ
-https://github.com/JuliaOpt/juliaopt-notebooks/tree/master/notebooks
-https://github.com/JuliaOpt/juliaopt-notebooks
-https://github.com/JuliaNLSolvers
-https://github.com/JuliaNLSolvers/Notebooks
-https://julianlsolvers.github.io/Optim.jl/stable/
+https://www.youtube.com/watch?v=7LNeR299q88<br>
+https://github.com/IainNZ<br>
+https://github.com/JuliaOpt/juliaopt-notebooks/tree/master/notebooks<br>
+https://github.com/JuliaOpt/juliaopt-notebooks<br>
+https://github.com/JuliaNLSolvers<br>
+https://github.com/JuliaNLSolvers/Notebooks<br>
+https://julianlsolvers.github.io/Optim.jl/stable/<br>
 
 * DiffEqBenchmarks.jl: benchmarks for the DiffEq solvers:<br>
-https://github.com/JuliaDiffEq/DiffEqBenchmarks.jl
+https://github.com/JuliaDiffEq/DiffEqBenchmarks.jl<br>
 
 
 ----------------------------------------------------------------------------
