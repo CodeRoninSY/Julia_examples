@@ -3,18 +3,18 @@
 
 
 # How to start Julia notebook via Jupyter from command line:
-<p>`$> jupyter notebook --no-browser`</p>
+<p><code>$> jupyter notebook --no-browser</code><br></p>
 
 # How to add packages
 <p>
-	$> julia  
-	julia> ]  
-	pkg> add Plots  
+<code>$> julia</code><br>
+<code>julia> ]</code><br>
+<code>pkg> add Plots</code><br>
 </p>
 -- or --
 <p>
-	] develop "https://github.com/dmlc/XGBoost.jl.git"  
-	] build XGBoost  
+<code>] develop "https://github.com/dmlc/XGBoost.jl.git"</code><br>
+<code>] build XGBoost</code><br>
 </p>
 
 ----------------------------------------------------------------------
