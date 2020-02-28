@@ -6,14 +6,14 @@
 $> jupyter notebook --no-browser
 
 # How to add packages
-  `$> julia`
-  `julia> ]`
-  `pkg> add Plots`
+$> julia
+julia> ]
+pkg> add Plots
 
 -- or --
 
-  `] develop "https://github.com/dmlc/XGBoost.jl.git"`
-  `] build XGBoost`
+] develop "https://github.com/dmlc/XGBoost.jl.git"
+] build XGBoost
 
 ----------------------------------------------------------------------
 
