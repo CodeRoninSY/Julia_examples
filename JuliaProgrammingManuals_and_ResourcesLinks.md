@@ -7,14 +7,14 @@
 
 # How to add packages
 <p>
-`$> julia`<br>
-`julia> ]`<br>
-`pkg> add Plots`<br>
+	$> julia  
+	julia> ]  
+	pkg> add Plots  
 </p>
 -- or --
 <p>
-`] develop "https://github.com/dmlc/XGBoost.jl.git"`<br>
-`] build XGBoost`<br>
+	] develop "https://github.com/dmlc/XGBoost.jl.git"  
+	] build XGBoost  
 </p>
 
 ----------------------------------------------------------------------
