@@ -48,6 +48,9 @@ https://github.com/natj/hydro<br>
 https://github.com/alan-turing-institute/MLJ.jl<br>
 https://alan-turing-institute.github.io/MLJTutorials/<br>
 
+* MLJ Cheat sheet: <br>
+https://github.com/alan-turing-institute/MLJ.jl/blob/master/docs/src/mlj_cheatsheet.md<br>
+
 * ScikitLearn.jl:<br> 
 https://github.com/cstjean/ScikitLearn.jl<br>
 https://github.com/cstjean/ScikitLearn.jl/blob/master/docs/examples.md<br>
@@ -199,7 +202,7 @@ Notes:
  14. https://github.com/rveltz/LSODA.jl
  15. https://github.com/JuliaArbTypes/ArbFloats.jl
  16. https://github.com/stevengj/DecFP.jl
- 17. https://github.com/JuliaDiffEq/DiffEqTutorials.jl/blob/master/ExtraODEFeatures/Feagin’s%20Order%2010%2C%2012%2C%20and%2014%20methods.ipynb
+ 17. https://github.com/JuliaDiffEq/DiffEqTutorials.jl/blob/master/ExtraODEFeatures/Feaginâ€™s%20Order%2010%2C%2012%2C%20and%2014%20methods.ipynb
  18. https://github.com/Keno/SIUnits.jl
  19. https://github.com/ajkeller34/Unitful.jl
  20. https://github.com/JuliaDiffEq/DiffEqTutorials.jl/blob/master/ExtraODEFeatures/Unit%20Checked%20Arithmetic%20via%20Unitful.ipynb
