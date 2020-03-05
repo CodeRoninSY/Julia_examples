@@ -79,6 +79,7 @@ https://github.com/JuliaDiffEq<br>
 
 * DiffEqTutorials.jl:<br>
 https://github.com/JuliaDiffEq/DiffEqTutorials.jl<br>
+https://docs.juliadiffeq.org/dev/types/ode_types/<br>
 https://archimede.dm.uniba.it/~testset/report/pollu.pdf<br>
 
 * DifferentialEquations.jl documentation:<br>
