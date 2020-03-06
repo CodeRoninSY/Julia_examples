@@ -83,6 +83,8 @@ https://docs.juliadiffeq.org/dev/types/ode_types/<br>
 https://archimede.dm.uniba.it/~testset/report/pollu.pdf<br>
 Benchmarks for identification of ODE from time series data:<br>
 http://www.cse.chalmers.se/~dag/identification/Benchmarks/index.html<br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403766/<br>
+COPASI : http://copasi.org/<br>
 
 * DifferentialEquations.jl documentation:<br>
 https://docs.juliadiffeq.org/stable/<br>
