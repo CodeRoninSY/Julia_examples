@@ -81,6 +81,8 @@ https://github.com/JuliaDiffEq<br>
 https://github.com/JuliaDiffEq/DiffEqTutorials.jl<br>
 https://docs.juliadiffeq.org/dev/types/ode_types/<br>
 https://archimede.dm.uniba.it/~testset/report/pollu.pdf<br>
+Benchmarks for identification of ODE from time series data:<br>
+http://www.cse.chalmers.se/~dag/identification/Benchmarks/index.html<br>
 
 * DifferentialEquations.jl documentation:<br>
 https://docs.juliadiffeq.org/stable/<br>
