@@ -85,6 +85,15 @@ Benchmarks for identification of ODE from time series data:<br>
 http://www.cse.chalmers.se/~dag/identification/Benchmarks/index.html<br>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403766/<br>
 COPASI : http://copasi.org/<br>
+ODE Lecture notes: https://www.mat.univie.ac.at/~gerald/ftp/book-ode/<br>
+A Comparison of ODE Solvers for Dynamical Systems with Impacts: https://nereus.mech.ntua.gr/Documents/pdf_ps/CND17.pdf<br>
+Benchmarks for identification of ordinary differential equations from time series data: https://academic.oup.com/bioinformatics/article/25/6/780/251452<br>
+Comprehensive benchmarking of Markov chain Monte Carlo methods for dynamical systems: https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-017-0433-1<br>
+
+* FEM Finite Element Methods:<br>
+DUNE project: https://www.dune-project.org/<br>
+Matlab implementation of the Finite element method in elasticity: https://www2.mathematik.hu-berlin.de/~cc/cc_homepage/download/2002-AJ_CC_FS_KR-Matlab_Implementation_FEM_Elasticity.pdf<br>
+Benchmarking the immersed finite element method for fluid–structure interaction problems: https://www.sciencedirect.com/science/article/pii/S0898122115001078<br>
 
 * DifferentialEquations.jl documentation:<br>
 https://docs.juliadiffeq.org/stable/<br>
