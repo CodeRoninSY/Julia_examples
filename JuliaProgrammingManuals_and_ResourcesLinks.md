@@ -94,6 +94,14 @@ Comprehensive benchmarking of Markov chain Monte Carlo methods for dynamical sys
 DUNE project: https://www.dune-project.org/<br>
 Matlab implementation of the Finite element method in elasticity: https://www2.mathematik.hu-berlin.de/~cc/cc_homepage/download/2002-AJ_CC_FS_KR-Matlab_Implementation_FEM_Elasticity.pdf<br>
 Benchmarking the immersed finite element method for fluid–structure interaction problems: https://www.sciencedirect.com/science/article/pii/S0898122115001078<br>
+Netgen: https://ngsolve.org/<br>
+Mmg Platform: https://www.mmgtools.org/<br>
+FLTK Fast Light Toolkit ("fulltick" UI builder): https://www.fltk.org/<br>
+OpenGL: https://www.opengl.org/<br>
+ONELAB: http://onelab.info/<br>
+GetDP: http://getdp.info/<br>
+GMSH: http://gmsh.info/<br>
+ALBERTA: http://www.alberta-fem.de/<br>
 
 * DifferentialEquations.jl documentation:<br>
 https://docs.juliadiffeq.org/stable/<br>
