@@ -205,6 +205,8 @@ https://julianlsolvers.github.io/Optim.jl/stable/<br>
 * DiffEqBenchmarks.jl: benchmarks for the DiffEq solvers:<br>
 https://github.com/JuliaDiffEq/DiffEqBenchmarks.jl<br>
 
+* QuantECON<br>
+https://quantecon.org/<br>
 
 ----------------------------------------------------------------------------
 * DifferentialEquations_jl_documentation_ChrisR.pdf
