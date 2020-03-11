@@ -5,7 +5,7 @@
 # How to start Julia notebook via Jupyter from command line:
 <p><code>$> jupyter notebook --no-browser</code><br></p>
 
-# How to add packages
+# How to ...
 <p>
 <code>$> julia</code><br>
 <code>julia> ]</code><br>
