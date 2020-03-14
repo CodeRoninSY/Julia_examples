@@ -213,6 +213,15 @@ https://github.com/JuliaDiffEq/DiffEqBenchmarks.jl<br>
 * QuantECON<br>
 https://quantecon.org/<br>
 
+* Modeling Disease Outbreak:<br>
+COVID-19 interactive dashboard: https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6<br>
+Modeling 2019-nCoV: https://systems.jhu.edu/research/public-health/ncov-model-2/<br>
+A decision-support framework to optimize border control for global outbreak mitigation: https://www.nature.com/articles/s41598-019-38665-w<br>
+https://www.nature.com/articles/s41598-019-38665-w.pdf<br>
+QGIS: https://qgis.org/en/site/<br>
+
+
+
 ----------------------------------------------------------------------------
 * DifferentialEquations_jl_documentation_ChrisR.pdf
 Notes:
