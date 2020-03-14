@@ -25,6 +25,9 @@ https://julialang.org/learning/<br>
 * Julia Observer:<br>
 https://juliaobserver.com/<br>
 
+* Julia Bloggers:<br>
+https://www.juliabloggers.com/<br>
+
 * The Fast Track to Julia 1.0:<br>
 https://juliadocs.github.io/Julia-Cheat-Sheet/<br>
 
