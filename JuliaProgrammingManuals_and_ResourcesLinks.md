@@ -123,7 +123,7 @@ https://www.youtube.com/watch?v=SLE0vz85Rqo&t=1167s<br>
 
 * Parameter estimation and Bayesian analysis:<br> 
 https://docs.juliadiffeq.org/dev/analysis/parameter_estimation/#parameter_estimation-1<br>
-https://github.com/baggepinnen/LowLevelParticleFilters.jl<br>
+LowLevelParticleFilters: https://github.com/baggepinnen/LowLevelParticleFilters.jl<br>
 
 * Przemyslaw Szufel (Econometrics, Optimization) github:<br>
 https://github.com/pszufe<br>
