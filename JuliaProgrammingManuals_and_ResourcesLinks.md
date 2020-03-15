@@ -22,6 +22,9 @@
 * Julia language learning:<br>
 https://julialang.org/learning/<br>
 
+* Julia version management: <br>
+https://github.com/HiroakiMikami/jlenv#installation<br>
+
 * Julia Observer:<br>
 https://juliaobserver.com/<br>
 
