@@ -18,6 +18,8 @@
 </p>
 
 ----------------------------------------------------------------------
+* Julia language github page:<br>
+https://github.com/JuliaLang/julia<br>
 
 * Julia language learning:<br>
 https://julialang.org/learning/<br>
