@@ -110,6 +110,12 @@ ONELAB: http://onelab.info/<br>
 GetDP: http://getdp.info/<br>
 GMSH: http://gmsh.info/<br>
 ALBERTA: http://www.alberta-fem.de/<br>
+FEniCS: <br>
+https://fenicsproject.org/<br>
+https://fenicsproject.org/download/<br>
+https://fenics.readthedocs.io/en/latest/installation.html#debian-ubuntu-packages<br>
+Docker Engine: https://docs.docker.com/install/linux/docker-ce/ubuntu/#prerequisites<br>
+
 
 * DifferentialEquations.jl documentation:<br>
 https://docs.juliadiffeq.org/stable/<br>
