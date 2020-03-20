@@ -22,7 +22,7 @@ You can either: <br>
 ```] add https://github.com/TuringLang/Libtask.jl```
 or equivalently:<br>
 ```using Pkg
-Pkg.add(PackageSpec(url="https://github.com/TuringLang/Libtask.jl")```
+Pkg.add(PackageSpec(url="https://github.com/TuringLang/Libtask.jl")```<br>
 
 
 
