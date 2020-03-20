@@ -17,6 +17,15 @@
 <code>] build XGBoost</code><br>
 </p>
 
+# How to add package via github url:<br>
+You can either: <br>
+```] add https://github.com/TuringLang/Libtask.jl```
+or equivalently:<br>
+```using Pkg
+Pkg.add(PackageSpec(url="https://github.com/TuringLang/Libtask.jl")```
+
+
+
 ----------------------------------------------------------------------
 * Julia language github page:<br>
 https://github.com/JuliaLang/julia<br>
