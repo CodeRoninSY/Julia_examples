@@ -19,12 +19,14 @@
 
 # How to add package via github url:<br>
 You can either: <br>
-```] add https://github.com/TuringLang/Libtask.jl```
+<p>
+ <code>] add https://github.com/TuringLang/Libtask.jl</code><br>
+</p>
 or equivalently:<br>
-```using Pkg
-Pkg.add(PackageSpec(url="https://github.com/TuringLang/Libtask.jl")```<br>
-
-
+<p>
+ <code>using Pkg</code><br>
+ <code>Pkg.add(PackageSpec(url="https://github.com/TuringLang/Libtask.jl")</code><br>
+</p>
 
 ----------------------------------------------------------------------
 * Julia language github page:<br>
