@@ -27,7 +27,7 @@ or equivalently:<br>
  <code>using Pkg</code><br>
  <code>Pkg.add(PackageSpec(url="https://github.com/TuringLang/Libtask.jl")</code><br>
 </p>
-![Libtask.jl](./libtask.png)
+[Libtask.jl](./libtask.png)
 
 ----------------------------------------------------------------------
 * Julia language github page:<br>
