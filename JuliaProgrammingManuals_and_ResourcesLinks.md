@@ -126,6 +126,8 @@ https://fenicsproject.org/<br>
 https://fenicsproject.org/download/<br>
 https://fenics.readthedocs.io/en/latest/installation.html#debian-ubuntu-packages<br>
 Docker Engine: https://docs.docker.com/install/linux/docker-ce/ubuntu/#prerequisites<br>
+FEA in Julia - Kristoffer Carlsson: https://www.youtube.com/watch?v=30TUEhbGmuc<br>
+JuliaFEM: http://www.juliafem.org/<br>
 
 
 * DifferentialEquations.jl documentation:<br>
