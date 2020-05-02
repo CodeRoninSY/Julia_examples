@@ -244,6 +244,9 @@ A decision-support framework to optimize border control for global outbreak miti
 https://www.nature.com/articles/s41598-019-38665-w.pdf<br>
 QGIS: https://qgis.org/en/site/<br>
 
+* Approximating a differential equation - Surrogates.jl : <br>
+https://www.youtube.com/watch?v=gRzmdrAocEA <br>
+https://github.com/ludoro/youtube_channel- <br>
 
 
 ----------------------------------------------------------------------------
