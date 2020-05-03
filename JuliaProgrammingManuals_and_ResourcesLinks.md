@@ -230,6 +230,9 @@ https://github.com/JuliaNLSolvers<br>
 https://github.com/JuliaNLSolvers/Notebooks<br>
 https://julianlsolvers.github.io/Optim.jl/stable/<br>
 Constraint Solver: https://opensourc.es/blog/constraint-solver-1<br>
+Julia Smooth Optimizers: https://juliasmoothoptimizers.github.io/<br>
+    * Linear operators: https://www.youtube.com/watch?v=DYf-k51_XcQ<br>
+    * Abel Siqueira github: https://github.com/abelsiqueira<br>
 
 * DiffEqBenchmarks.jl: benchmarks for the DiffEq solvers:<br>
 https://github.com/JuliaDiffEq/DiffEqBenchmarks.jl<br>
