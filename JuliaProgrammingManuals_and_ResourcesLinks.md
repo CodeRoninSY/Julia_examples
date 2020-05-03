@@ -17,6 +17,12 @@
 <code>] build XGBoost</code><br>
 </p>
 
+# How to build "GR":
+<p>
+ <code> ENV["GRDIR"] = ""<br>
+  <code> using Pkg; Pkg.build("GR")</code><br>
+  </p>
+
 # How to add package via github url:<br>
 You can either: <br>
 <p>
